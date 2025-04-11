@@ -276,3 +276,22 @@ span{
     font-weight: 700;
 
 }
+
+.simulador{
+
+    display: flex;    
+    background: #c4c4c4;
+    border-radius: 10px;
+    width: fit-content;
+    margin: auto;
+    padding: 20px;
+    
+
+}
+
+.simulador .container {
+
+    display: flex;    
+    flex-direction: column;
+
+}
